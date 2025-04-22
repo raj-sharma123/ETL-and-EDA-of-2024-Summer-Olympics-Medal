@@ -1,4 +1,6 @@
 # Exploratory Data Analysis of the 2024 Summer Olympics Medal Table Using Power Query in Excel
+![Screenshot 2025-04-22 224713](https://github.com/user-attachments/assets/870ba7fc-4a24-4400-905f-9b06f1f8348c)
+
 ## 📘 1. Introduction
 The 2024 Summer Olympics, held in Paris, France, brought together athletes from all over the world to compete in a wide array of sports. This analysis aims to explore the distribution of medals among participating countries, identify top performers, and uncover interesting patterns in the medal table. We will analyze the medal counts — gold, silver, bronze, and total — for each country and use visualizations to enhance our understanding of performance trends.
 
