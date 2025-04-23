@@ -1,4 +1,5 @@
 # Exploratory Data Analysis of the 2024 Summer Olympics Medal Table Using Power Query in Excel
+
 ![Screenshot 2025-04-22 224713](https://github.com/user-attachments/assets/870ba7fc-4a24-4400-905f-9b06f1f8348c)
 
 ## 📘 1. Introduction
@@ -61,22 +62,27 @@ Top 10 Countries by Total Medals:
 ## 📊 6. Charts and Visualizations
 ### 🔹 1. Clustered Bar Chart: Top 10 Countries by Total Medals
 This chart displays the top 10 countries with the highest total medal counts. Each bar represents a country, with the length corresponding to the total number of medals won. It helps quickly identify the most successful nations overall.
-![image](https://github.com/user-attachments/assets/b9501538-41e8-447a-b763-91e29ddfb9de)
+
+![image](https://github.com/user-attachments/assets/9631db6c-8d6a-4dcb-ab8d-be578328048b)
 
 ### 🔹 2. Stacked Bar Chart: Top 10 Countries by Medal Type
 This visualization breaks down each of the top 10 countries' total medals into gold, silver, and bronze. It helps highlight not only total performance but also how each country performed across different medal types.
-![image](https://github.com/user-attachments/assets/db777bc8-cd9d-43a4-8b11-48b4ac6ef764)
+
+![image](https://github.com/user-attachments/assets/79d697f1-0165-492f-9d48-395353027a78)
 
 ### 🔹 3. Pie Chart: Top 10 Countries’ Share of Total Medals
 This chart shows the percentage of total medals won by the top 10 countries. It gives a clear view of how medals are distributed among the leading nations and highlights any dominance or balance in the competition.
+
 ![image](https://github.com/user-attachments/assets/10953333-97c4-45e5-b8a5-a82c0664a2c4)
 
 ### 🔹 4. Treemap: Gold Medal Distribution – Top 10 Countries vs. Others
 This Treemap highlights the distribution of gold medals among the top 10 countries, with all other countries grouped under a single “Others” category. Each block represents a country (or the Others group), and its size reflects the number of gold medals won. This visualization emphasizes which nations led in terms of top podium finishes, making it easy to spot gold medal dominance at a glance.
+
 ![image](https://github.com/user-attachments/assets/df78d46f-7679-4bfc-a54f-5c9244f1f3f7)
 
 ### 🔹 5. Scatter Plot: Gold Medals vs. Total Medals
 This scatter plot displays the relationship between the number of gold medals and the total medals won by each country. Each point represents a country, where the x-axis shows gold medals and the y-axis shows total medals. The plot helps identify trends, such as whether countries winning more gold tend to perform better overall — and also highlights any outliers (e.g., countries with high totals but fewer golds).
+
 ![image](https://github.com/user-attachments/assets/fa49e734-7ddd-4ca0-a924-f45dc5625f53)
 
 ## ✅ 7. Conclusion
